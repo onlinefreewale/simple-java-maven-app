@@ -14,3 +14,4 @@ you'll be creating for youself during the tutorial and the `jenkins/scripts` sub
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 # Testing the webhook trigger for automated job built from freejobstyle.
+# Webhook trigger testing for pipelinejob
